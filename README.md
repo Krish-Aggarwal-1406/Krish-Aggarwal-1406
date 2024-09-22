@@ -1,6 +1,4 @@
 <h1 align="center">Hi , I'm Krish Aggarwal</h1>
-<h3 align="center">A 1st year B.Tech. CSE student and a volunteer of GDG on Campus at Maharishi markandeshwar (deemed to be) University</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-aggarwal-1406&label=Profile%20views&color=0e75b6&style=flat" alt="krish-aggarwal-1406" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-aggarwal-1406" alt="krish-aggarwal-1406" /></a> </p>
@@ -8,6 +6,10 @@
 <p align="left"> <a href="https://twitter.com/krish_142006" target="blank"><img src="https://img.shields.io/twitter/follow/krish_142006?logo=twitter&style=for-the-badge" alt="krish_142006" /></a> </p>
 
 - 🌱 I’m currently learning **C language and Html**
+
+- 📫 How to reach me **krishaggarwal1406@gmail.com**
+
+- ⚡ Fun fact **I am Tom Preston .... nah just kidding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

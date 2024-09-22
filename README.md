@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/krish_142006" target="blank"><img src="https://img.shields.io/twitter/follow/krish_142006?logo=twitter&style=for-the-badge" alt="krish_142006" /></a> </p>
 
+- A 1st year B.Tech. CSE student and a volunteer of GDG on Campus at **Maharishi markandeshwar (deemed to be) University**
+
 - 🌱 I’m currently learning **C language and Html**
+
+- 👯I have a beginner level knowledge of **c language**
+
+- 💬 I am passionate in learning about **AI/ML**
 
 - 📫 How to reach me **krishaggarwal1406@gmail.com**
 
